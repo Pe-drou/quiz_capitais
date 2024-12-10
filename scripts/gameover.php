@@ -8,7 +8,7 @@
 
 <!-- Início do código HTML para exibir os resultados finais do jogo -->
 <div class="result-container">   
-    <h1>Quiz das Capitias</h1>
+    <h1>Quiz das Capitais</h1>
     <hr>
 
     <h3>Total de questões: <strong class="result-value"><?= $total_questions ?></strong></h3>
